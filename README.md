@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit4412
 - 👀 I’m interested in Machine Learning ,Artificial Intelligence ,Webdevlopment
-- 🌱 I’m currently learning BE Computr Science
+- 🌱 I’m currently learning BE Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
